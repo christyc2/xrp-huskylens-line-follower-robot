@@ -1,6 +1,6 @@
 from XRPLib.defaults import drivetrain
 from XRPLib.pid import PID
-from lib.i2c import HuskyLensLibrary
+from i2c import HuskyLensLibrary
 from machine import Pin
 import time
 
