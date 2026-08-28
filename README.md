@@ -14,3 +14,6 @@ Build a line-following robot using an XRP robot and a DFRobot HuskyLens (SEN0305
 - Detects and tracks a line using computer vision
 - Computes steering corrections using PID control
 - Adjusts motor speeds to follow the path accurately
+
+
+**Just run main.py**
